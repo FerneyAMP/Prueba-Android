@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="title_activity_principal">Principal</string>
+
+    <string name="ruta_url_api">http://api.themoviedb.org/3/movie</string>
+    <string name="campo_api_key">api_key</string>
+    <string name="api_key_moviedb">12956a722c68d23f60961096eaebdd15</string>
+    <string name="ruta_popular">/popular</string>
+    <string name="ruta_top_rated">/top_rated</string>
+    <string name="ruta_upcoming">/upcoming</string>
+
+    <string name="opc_popular">Popular</string>
+    <string name="opc_topRated">Top Rated</string>
+    <string name="opc_upcoming">Upcoming</string>
+
 </resources>
